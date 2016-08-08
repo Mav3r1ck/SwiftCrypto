@@ -1,4 +1,5 @@
-struct SwiftCrypto {
-
-    var text = "Hello, World!"
+public struct SwiftCrypto {
+	stat func version() -> String {
+		return "0.1.3"
+	}
 }
