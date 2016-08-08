@@ -1,5 +1,0 @@
-module SwiftCrypto {
-  header "/usr/include/CommonCrypto/CommonCrypto.h"
-  link "SwiftCrypto"
-  export *
-}
