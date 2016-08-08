@@ -1,5 +1,3 @@
-public struct SwiftCrypto {
-	stat func version() -> String {
-		return "0.1.3"
-	}
+public struct SwiftCrypt {
+    public static let version = "0.1.4"
 }
